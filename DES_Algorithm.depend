@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1792971265 source:d:\_senior2_fall2026\security\des-project\des_algorithm\des_logic.c
+	<stdio.h>
+	<stdint.h>
+
